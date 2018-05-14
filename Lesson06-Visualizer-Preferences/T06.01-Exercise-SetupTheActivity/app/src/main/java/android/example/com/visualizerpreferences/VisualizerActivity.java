@@ -17,14 +17,19 @@ package android.example.com.visualizerpreferences;
  */
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.example.com.visualizerpreferences.AudioVisuals.AudioInputReader;
 import android.example.com.visualizerpreferences.AudioVisuals.VisualizerView;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.widget.Toast;
 
 public class VisualizerActivity extends AppCompatActivity {
@@ -33,6 +38,7 @@ public class VisualizerActivity extends AppCompatActivity {
     private VisualizerView mVisualizerView;
     private AudioInputReader mAudioInputReader;
 
+    @RequiresApi(api = Build.VERSION_CODES.HONEYCOMB)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,6 +46,7 @@ public class VisualizerActivity extends AppCompatActivity {
         mVisualizerView = (VisualizerView) findViewById(R.id.activity_visualizer);
         defaultSetup();
         setupPermissions();
+
     }
 
     private void defaultSetup() {
@@ -124,5 +131,27 @@ public class VisualizerActivity extends AppCompatActivity {
     // be shown as an action, and orderInCategory should be 100
 
     // TODO (5) Add the menu to the menu bar
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.visualizer_menu,menu);
+        return true;
+    }
+
     // TODO (6) When the "Settings" menu item is pressed, open SettingsActivity
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int itemID = item.getItemId();
+        switch (itemID){
+            case R.id.action_settings:
+                Intent intent = new Intent(this, SettingsActivity.class);
+                startActivity(intent);
+                return true;
+            case android.R.id.home:
+                NavUtils.navigateUpFromSameTask(this);
+                return true;
+        }
+        return false;
+    }
 }
