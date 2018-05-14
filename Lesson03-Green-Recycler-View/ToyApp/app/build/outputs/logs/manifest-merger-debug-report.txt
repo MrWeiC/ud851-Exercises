@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8327c769a3a5d5a37fce727b0e53700e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/e09169bfb42a0ddcd91b330a9706d94a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e632df906ad2d5833fb4a2db5ef85e00/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/c02c1b77426eea8b592e74b96c4543c6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/ce592b80339c222ef158d425d7c90898/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/afc930c58aa2d4101074209d6f16c7d6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/f2592762823646d12a0cfd2bc6766ccf/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/6bd1f38a171b96820b2a9c1f57afab93/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/3f8755c119c89b5df0a0fcd6db65c12f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/864ce0b26c126c56856a9e5af0f84240/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7ff60e9771ec23de8a1a0a12cb725464/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:18:11-53
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:20:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8327c769a3a5d5a37fce727b0e53700e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8327c769a3a5d5a37fce727b0e53700e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e632df906ad2d5833fb4a2db5ef85e00/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e632df906ad2d5833fb4a2db5ef85e00/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/c02c1b77426eea8b592e74b96c4543c6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/c02c1b77426eea8b592e74b96c4543c6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/ce592b80339c222ef158d425d7c90898/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/ce592b80339c222ef158d425d7c90898/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/afc930c58aa2d4101074209d6f16c7d6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/afc930c58aa2d4101074209d6f16c7d6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/f2592762823646d12a0cfd2bc6766ccf/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/f2592762823646d12a0cfd2bc6766ccf/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/6bd1f38a171b96820b2a9c1f57afab93/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/6bd1f38a171b96820b2a9c1f57afab93/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/3f8755c119c89b5df0a0fcd6db65c12f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/3f8755c119c89b5df0a0fcd6db65c12f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/864ce0b26c126c56856a9e5af0f84240/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/864ce0b26c126c56856a9e5af0f84240/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7ff60e9771ec23de8a1a0a12cb725464/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7ff60e9771ec23de8a1a0a12cb725464/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:26:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8327c769a3a5d5a37fce727b0e53700e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8327c769a3a5d5a37fce727b0e53700e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/e09169bfb42a0ddcd91b330a9706d94a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/e09169bfb42a0ddcd91b330a9706d94a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e632df906ad2d5833fb4a2db5ef85e00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e632df906ad2d5833fb4a2db5ef85e00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/c02c1b77426eea8b592e74b96c4543c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/c02c1b77426eea8b592e74b96c4543c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/ce592b80339c222ef158d425d7c90898/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/ce592b80339c222ef158d425d7c90898/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/afc930c58aa2d4101074209d6f16c7d6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/afc930c58aa2d4101074209d6f16c7d6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/f2592762823646d12a0cfd2bc6766ccf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/f2592762823646d12a0cfd2bc6766ccf/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/6bd1f38a171b96820b2a9c1f57afab93/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/6bd1f38a171b96820b2a9c1f57afab93/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/3f8755c119c89b5df0a0fcd6db65c12f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/3f8755c119c89b5df0a0fcd6db65c12f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/864ce0b26c126c56856a9e5af0f84240/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/864ce0b26c126c56856a9e5af0f84240/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7ff60e9771ec23de8a1a0a12cb725464/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/7ff60e9771ec23de8a1a0a12cb725464/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /Users/weichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/8327c769a3a5d5a37fce727b0e53700e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/src/main/AndroidManifest.xml

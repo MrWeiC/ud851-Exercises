@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_714fd2c307088c6d3c0b2665c10e678af15abcdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_2e8179aaa5fe1052e4d074bc7f0709d6971c29f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_83033f632678a8922430fc08ee75519cc7dbb5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_bd8530e7d0b7362e0da5a279b0904c5c0b63bfac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_16cfca15c9aaedd230c64f9c2602ab01183001a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_fe5da1d525c6d0d917c7369286506314959abaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_ee019e088c15cf596bbc2db2bf95000fad42b4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_11ccd40b552520f56ee427715d05cb07f07ba450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_47403bb04a96b869dfc341a623591d2bd1fe5128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_eb1903f97fb60a29b79d2ebeab199adbb83a6f35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_19aa04befb9377d2e1f084078fac7e7d12747cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_90c78e38d2df06a6309201dde803a4d964eabf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c50cec7ee9050160eb54edbec7720c423e9ebf1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_5717f18350be4048816b1727a4d309f28a7c45ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_806bc6683b81de1d241609a39df10a926b28040f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/ToyApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_9399bb7d5563ee1d0db79b385494b62e288be4f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_6bc20c1b81fdbd5e8a99f7be0f815f0741a76efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_a48d33c284fc1f1ae2f2fadd1532a5d6ed5885d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_3cb57a6da30ff9128d873de6ee355ec61c0ec647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_f041adc0bf5aad1693e7d90ceefe2b182a929edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/weichen/Documents/Coding/AndroidNanoDegree/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_87462da807cb28cf2b07e396c0c0e773a8319186.jar" />
+    </item>
+
+</items>
