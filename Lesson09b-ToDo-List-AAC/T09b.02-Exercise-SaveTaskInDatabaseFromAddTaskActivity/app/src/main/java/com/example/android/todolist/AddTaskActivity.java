@@ -16,6 +16,9 @@
 
 package com.example.android.todolist;
 
+import android.arch.persistence.db.SupportSQLiteOpenHelper;
+import android.arch.persistence.room.DatabaseConfiguration;
+import android.arch.persistence.room.InvalidationTracker;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -24,7 +27,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.RadioGroup;
 
+import com.example.android.todolist.database.AppDatabase;
+import com.example.android.todolist.database.TaskDao;
 import com.example.android.todolist.database.TaskEntry;
+
+import java.util.Date;
 
 
 public class AddTaskActivity extends AppCompatActivity {
@@ -49,6 +56,7 @@ public class AddTaskActivity extends AppCompatActivity {
     private int mTaskId = DEFAULT_TASK_ID;
 
     // TODO (3) Create AppDatabase member variable for the Database
+    private AppDatabase mDataBase;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -57,6 +65,7 @@ public class AddTaskActivity extends AppCompatActivity {
         initViews();
 
         // TODO (4) Initialize member variable for the data base
+        mDataBase = AppDatabase.getInstance(getApplicationContext());
 
         if (savedInstanceState != null && savedInstanceState.containsKey(INSTANCE_TASK_ID)) {
             mTaskId = savedInstanceState.getInt(INSTANCE_TASK_ID, DEFAULT_TASK_ID);
@@ -110,10 +119,17 @@ public class AddTaskActivity extends AppCompatActivity {
         // TODO (5) Create a description variable and assign to it the value in the edit text
         // TODO (6) Create a priority variable and assign the value returned by getPriorityFromViews()
         // TODO (7) Create a date variable and assign to it the current Date
+        String description = mEditText.getText().toString();
+        int priority = getPriorityFromViews();
+        Date date = new Date();
 
         // TODO (8) Create taskEntry variable using the variables defined above
         // TODO (9) Use the taskDao in the AppDatabase variable to insert the taskEntry
         // TODO (10) call finish() to come back to MainActivity
+        TaskEntry taskEntry = new TaskEntry(description,priority,date);
+        mDataBase.taskDao().insertTask(taskEntry);
+        finish();
+
     }
 
     /**

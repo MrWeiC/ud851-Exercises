@@ -82,6 +82,19 @@ public class AddTaskActivity extends AppCompatActivity {
 
                 // TODO (6) Call the populateUI method with the retrieve tasks
                 // Remember to wrap it in a call to runOnUiThread
+                mTaskId = intent.getIntExtra(EXTRA_TASK_ID,DEFAULT_TASK_ID);
+                AppExecutors.getInstance().diskIO().execute(new Runnable() {
+                    @Override
+                    public void run() {
+                        final TaskEntry task = mDb.taskDao().loadTaskById(mTaskId);
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                populateUI(task);
+                            }
+                        });
+                    }
+                });
             }
         }
     }
@@ -117,6 +130,13 @@ public class AddTaskActivity extends AppCompatActivity {
         // TODO (7) return if the task is null
 
         // TODO (8) use the variable task to populate the UI
+        if(task == null){
+            return ;
+        }
+
+        mEditText.setText(task.getDescription());
+        setPriorityInViews(task.getPriority());
+
     }
 
     /**
@@ -135,7 +155,12 @@ public class AddTaskActivity extends AppCompatActivity {
                 // TODO (9) insert the task only if mTaskId matches DEFAULT_TASK_ID
                 // Otherwise update it
                 // call finish in any case
-                mDb.taskDao().insertTask(taskEntry);
+                if(mTaskId == DEFAULT_TASK_ID){
+                    mDb.taskDao().insertTask(taskEntry);
+                }else{
+                    taskEntry.setId(mTaskId);
+                    mDb.taskDao().updateTask(taskEntry);
+                }
                 finish();
             }
         });
